@@ -26,6 +26,7 @@ FinanceHub links out to all of my finance projects:
 - 🎮 **[The Trading Game](https://michaelsboost.com/TheTradingGame/)** — Binary Options Simulator  
 - 💹 **[UpOrDown](https://michaelsboost.com/UpOrDown/)** — Random Trading Game Simulator  
 - 📈 **[Get Yourself A Free Stock](https://michaelsboost.com/freestock)** — Claim a Free Stock Bonus  
+- 🚀 **[Earn 💰 While You Sleep](https://app.settlemate.io/invite/WU1MXYYNADG4)** — Unlock Your Share of $10,000+ in Rewards  
 - 💸 **[Pocket Option Referral](https://pocket-friends.com/r/wfbvsltn4w)** — Get Up to $100
 
 ---
@@ -37,6 +38,7 @@ These aren’t my creations, but they’ve earned a permanent spot in my toolkit
 - 📊 **[Experian](https://www.experian.com/)** — Credit Reports & Scores  
 - 🧠 **[NerdWallet](https://nerdwallet.com/)** — Smarter Money Decisions  
 - 📅 **[EveryDollar](https://everydollar.com/)** — Simple Budgeting Made Easy  
+- 🚀 **[Settlemate](https://app.settlemate.io/invite/WU1MXYYNADG4)** — Unlock Your Share of $10,000+ in Rewards  
 
 ---
 
