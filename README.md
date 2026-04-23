@@ -25,6 +25,7 @@ FinanceHub links out to all of my finance projects:
 - ⚔️ **[AlgoArena](https://michaelsboost.com/AlgoArena/)** — Strategy Showdown Simulator  
 - 🎮 **[The Trading Game](https://michaelsboost.com/TheTradingGame/)** — Binary Options Simulator  
 - 💹 **[UpOrDown](https://michaelsboost.com/UpOrDown/)** — Random Trading Game Simulator  
+- 🧪 **[50/50 Experiment](https://michaelsboost.com/5050/)** — Randomness & Probability Simulator  
 - 📈 **[Get Yourself A Free Stock](https://michaelsboost.com/freestock)** — Claim a Free Stock Bonus  
 - 🚀 **[Earn 💰 While You Sleep](https://app.settlemate.io/invite/WU1MXYYNADG4)** — Unlock Your Share of $10,000+ in Rewards  
 - 💸 **[Pocket Option Referral](https://pocket-friends.com/r/wfbvsltn4w)** — Get Up to $100
@@ -60,14 +61,16 @@ Licensed under the **MIT License**.
 ---
 
 ## ☕ **Support the Developer**
-If FinanceHub helps you, consider supporting:
+If FinanceHub or any of my tools help you, you can support development here. Every bit helps keep these apps free, fast, and improving.
 
-- 🎨 [My Graphic Design Course](https://michaelsboost.com/graphicdesign)  
-- 🛒 [My Store](https://michaelsboost.com/store)  
-- ☕ [Buy me a coffee](http://ko-fi.com/michaelsboost)  
-- 👕 [Grab a T-Shirt](https://michaelsboost.com/gear)  
-- 🖼️ [Art prints](https://deviantart.com/michaelsboost/prints)  
-- 💰 [Donate via PayPal](https://michaelsboost.com/donate)  
-- 💵 [Donate via Cash App](https://cash.me/$michaelsboost)  
+### 💛 Ways to Support
+- ☕ [Buy me a coffee](http://ko-fi.com/michaelsboost)
+- 🛒 [Shop my store](https://michaelsboost.com/store)
+- 🎨 [Graphic design course](https://michaelsboost.com/graphicdesign)
+- 👕 [Grab merch](https://michaelsboost.com/gear)
+- 🖼️ [Art prints](https://deviantart.com/michaelsboost/prints)
+
+### 💸 Direct Support
+- 💵 https://michaelsboost.com/donate
 
 Your support makes it possible to create more free and open-source projects like this 🚀
