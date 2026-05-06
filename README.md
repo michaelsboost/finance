@@ -24,7 +24,6 @@ FinanceHub links out to all of my finance projects:
 - 💹 **[PropForge](https://michaelsboost.com/PropForge/)** — Prop Firm Trading Simulator  
 - ⚔️ **[AlgoArena](https://michaelsboost.com/AlgoArena/)** — Strategy Showdown Simulator  
 - 🎮 **[The Trading Game](https://michaelsboost.com/TheTradingGame/)** — Binary Options Simulator  
-- 💹 **[UpOrDown](https://michaelsboost.com/UpOrDown/)** — Random Trading Game Simulator  
 - 🧪 **[50/50 Experiment](https://michaelsboost.com/5050/)** — Randomness & Probability Simulator  
 - 📈 **[Get Yourself A Free Stock](https://michaelsboost.com/freestock)** — Claim a Free Stock Bonus  
 - 🚀 **[Earn 💰 While You Sleep](https://app.settlemate.io/invite/WU1MXYYNADG4)** — Unlock Your Share of $10,000+ in Rewards  
