@@ -179,6 +179,26 @@
                           "children": [
                             {
                               "tag": "a",
+                              "id": "iu23ri2ur",
+                              "style": "",
+                              "state": {
+                                "collapsed": false,
+                                "visible": true,
+                                "selected": false
+                              },
+                              "name": "a",
+                              "type": "text",
+                              "text": "🌱 LifeOS — Personal Resilience & Life Management Dashboard 🌱",
+                              "props": {
+                                "href": "https://michaelsboost.com/lifeos/",
+                                "target": "_blank",
+                                "class": "leading-normal border border-solid px-8 py-4 border-white w-full mt-4 hover:bg-white hover:text-black transition duration-150",
+                                "type": "button"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "a",
                               "id": "aem5p0va8",
                               "style": "",
                               "state": {
