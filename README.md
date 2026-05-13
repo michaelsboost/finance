@@ -16,6 +16,7 @@
 FinanceHub links out to all of my finance projects:
 
 - 📈 **[Chart Dojo](https://michaelsboost.com/ChartDojo/)** — Gamified Technical Analysis Trainer  
+- ⚔️ **[Strategy Arena](https://michaelsboost.com/StrategyArena/)** — Monte Carlo Trading Strategy Stress Testing Laboratory  
 - 📈 **[Compound Calculator](https://michaelsboost.com/CompoundCalculator/)** — Plan Your Trading Flips with Compound Growth  
 - 🗝 **[FirstRent](https://michaelsboost.com/FirstRent/)** — Smart Questions for First-Time Renters  
 - 📊 **[Market Viewer](https://michaelsboost.com/Market-Viewer/)** — Charts, Indices, News & Calendar  

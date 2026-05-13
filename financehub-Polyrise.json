@@ -219,6 +219,26 @@
                             },
                             {
                               "tag": "a",
+                              "id": "nfkfgf83h58",
+                              "style": "",
+                              "state": {
+                                "collapsed": false,
+                                "visible": true,
+                                "selected": false
+                              },
+                              "name": "a",
+                              "type": "text",
+                              "text": "⚔️ Strategy Arena — Monte Carlo Strategy Stress Testing Lab ⚔",
+                              "props": {
+                                "href": "https://michaelsboost.com/StrategyArena/",
+                                "target": "_blank",
+                                "class": "leading-normal border border-solid px-8 py-4 border-white w-full mt-4 hover:bg-white hover:text-black transition duration-150",
+                                "type": "button"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "a",
                               "id": "cu3wqpyb9",
                               "style": "",
                               "state": {
