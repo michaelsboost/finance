@@ -15,9 +15,12 @@
 ## 🗂️ **Included Apps**
 FinanceHub links out to all of my finance projects:
 
+- 🌱 **[LifeOS](https://michaelsboost.com/lifeos/)** — Personal Resilience & Life Management Dashboard  
 - 📈 **[Chart Dojo](https://michaelsboost.com/ChartDojo/)** — Gamified Technical Analysis Trainer  
+- 📉 **[CandleEdge](https://michaelsboost.com/CandleEdge/)** — Market Structure & Pattern Probability Scanner  
 - ⚔️ **[Strategy Arena](https://michaelsboost.com/StrategyArena/)** — Monte Carlo Trading Strategy Stress Testing Laboratory  
 - 📈 **[Compound Calculator](https://michaelsboost.com/CompoundCalculator/)** — Plan Your Trading Flips with Compound Growth  
+- 💸 **[Budjut](https://michaelsboost.com/Budjut/)** — Budgeting Without the Bloat  
 - 🗝 **[FirstRent](https://michaelsboost.com/FirstRent/)** — Smart Questions for First-Time Renters  
 - 📊 **[Market Viewer](https://michaelsboost.com/Market-Viewer/)** — Charts, Indices, News & Calendar  
 - ₿ **[Crypto Viewer](https://michaelsboost.com/Crypto-Viewer/)** — Charts, Coins, News & Calendar  
@@ -28,7 +31,7 @@ FinanceHub links out to all of my finance projects:
 - 🧪 **[50/50 Experiment](https://michaelsboost.com/5050/)** — Randomness & Probability Simulator  
 - 📈 **[Get Yourself A Free Stock](https://michaelsboost.com/freestock)** — Claim a Free Stock Bonus  
 - 🚀 **[Earn 💰 While You Sleep](https://app.settlemate.io/invite/WU1MXYYNADG4)** — Unlock Your Share of $10,000+ in Rewards  
-- 💸 **[Pocket Option Referral](https://pocket-friends.com/r/wfbvsltn4w)** — Get Up to $100
+- 💸 **[Pocket Option Referral](https://pocket-friends.com/r/wfbvsltn4w)** — Get Up to $100  
 
 ---
 

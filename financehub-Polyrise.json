@@ -219,6 +219,26 @@
                             },
                             {
                               "tag": "a",
+                              "id": "asc98sa9a8s6v",
+                              "style": "",
+                              "state": {
+                                "collapsed": false,
+                                "visible": true,
+                                "selected": false
+                              },
+                              "name": "a",
+                              "type": "text",
+                              "text": "📉 CandleEdge — Market Structure & Pattern Probability Scanner 📉",
+                              "props": {
+                                "href": "https://michaelsboost.com/CandleEdge/",
+                                "target": "_blank",
+                                "class": "leading-normal border border-solid px-8 py-4 border-white w-full mt-4 hover:bg-white hover:text-black transition duration-150",
+                                "type": "button"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "a",
                               "id": "nfkfgf83h58",
                               "style": "",
                               "state": {
